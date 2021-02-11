@@ -10,11 +10,12 @@ Types of CSS selectors
 3. ID selectors
 4. Class selectors
 5. Pseudo selectors - Listens to particular HTML events */
-
+*{
+    background-color: lightgrey;
+}
 h1, 
 h2 {
-    color: maroon;
-    text-decoration: underline;
+    color: blue;
     text-align: center;
 }
 
