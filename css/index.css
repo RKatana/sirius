@@ -1,0 +1,19 @@
+/* CSS Ruleset
+selector, 
+selector2 {
+    property: value;
+    property: value;
+}
+Types of CSS selectors
+1. Element selectors
+2. Attribute selectors - They target the element attr
+3. ID selectors
+4. Class selectors
+5. Pseudo selectors - Listens to particular HTML events */
+
+h1, 
+h2 {
+    color: maroon;
+    text-decoration: underline;
+}
+
