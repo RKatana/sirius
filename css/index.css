@@ -15,5 +15,10 @@ h1,
 h2 {
     color: maroon;
     text-decoration: underline;
+    text-align: center;
 }
 
+img {
+    height: 350px ;
+    width: 350px;
+}
