@@ -7,11 +7,11 @@ selector2 {
 Types of CSS selectors
 1. Element selectors
 2. Attribute selectors - They target the element attr
-3. ID selectors
-4. Class selectors
+    3. ID selectors
+    4. Class selectors
 5. Pseudo selectors - Listens to particular HTML events */
-*{
-    background-color: lightgrey;
+html{
+    margin-top: 0px;
 }
 h1, 
 h2 {
@@ -31,5 +31,10 @@ footer ul{
  footer > ul > li> a{
      color: white;
      background-color: black;
+ }
+
+ .header {
+     background-image: url("../images/bird.jpeg");
+     height: 40vh;
  }
 
