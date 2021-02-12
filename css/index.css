@@ -38,3 +38,21 @@ footer ul{
      height: 40vh;
  }
 
+ .special {
+     color: maroon;
+ }
+
+ h2.special{
+     text-decoration: underline;
+ }
+
+ #bullets{
+    background-color: grey;
+    padding: 20px;
+    border: 3px solid maroon;
+    margin: 40px;
+ }
+ #bullets li{
+     margin-left: 10px;
+ }
+
