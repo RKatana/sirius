@@ -35,7 +35,9 @@ footer ul{
 
  .header {
      background-image: url("../images/bird.jpeg");
-     height: 40vh;
+     height: 70vh;
+     background-repeat: no-repeat;
+     background-size: cover;
  }
 
  .special {
